@@ -1,0 +1,23 @@
+[
+    {"name": "A"},
+    {
+        "name": "B",
+        "childs": [
+            {"name": "X"},
+            {"name": "Y"}
+        ]
+    },
+    {"name": "C"},
+    {
+        "name": "D",
+        "childs": [
+            {
+                "name": "Z",
+                "childs": [
+                    {"name": "K"}
+                ]
+            }
+        ]
+    }
+    
+]
